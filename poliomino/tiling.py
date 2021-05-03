@@ -15,7 +15,7 @@ class TableTiling:
         self.__m1 = m1
         self.__m2 = m2
 
-    def position(self, pol: Poliomino):
+    def put(self, pol: Poliomino):
         """
         Generator to place poliomino.
 
