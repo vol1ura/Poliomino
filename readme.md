@@ -1,3 +1,5 @@
+[![Code Style](https://img.shields.io/badge/Code%20Style-PEP%208-blueviolet)](https://www.python.org/dev/peps/pep-0008/) 
+
 # Задача замощения
 
 ## Основная идея алгоритма
